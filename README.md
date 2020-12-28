@@ -1,0 +1,2 @@
+# Product-Deal-Finder
+A script the goes on amazon, and with the product u tell it to search it search's the first 20 pages of it. Than it checks if the product on every page has 4 - 5 stars and over 100 people reviewed it. After that the ones that have a 4-5 star review and more than 1000 in the review count gets its price appended to a list. It sorts the list and the top 10 results get emailed to you!
